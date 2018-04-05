@@ -1,5 +1,3 @@
-## Welcome to TangleDB
-
 What is TangleDB?
 ----------------
 
